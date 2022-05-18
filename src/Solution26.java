@@ -1,9 +1,6 @@
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
-public class solution26 {
+public class Solution26 {
 
     public static void main(String[] args) {
 

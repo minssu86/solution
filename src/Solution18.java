@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class solution18 {
+public class Solution18 {
     public static void main(String[] args) {
         String[] seoul = {"Jane", "Kim"};
         String answer = "";

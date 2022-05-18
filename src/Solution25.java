@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
-
-public class solution25 {
+public class Solution25 {
 
     public static void main(String[] args) {
         long n = 121;

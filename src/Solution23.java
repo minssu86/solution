@@ -1,4 +1,4 @@
-public class solution23 {
+public class Solution23 {
 
     public static void main(String[] args) {
         long n = 123456789123456l;

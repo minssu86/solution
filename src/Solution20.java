@@ -1,9 +1,6 @@
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
-public class solution20 {
+public class Solution20 {
     public static void main(String[] args) {
         String[] participant = 	{"mislav", "stanko", "mislav", "ana"};
         String[] completion = {"stanko", "ana", "mislav"};

@@ -1,4 +1,4 @@
-public class solution19 {
+public class Solution19 {
     public static void main(String[] args) {
         int n = 5;
         String answer = "";

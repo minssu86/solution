@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class solution29 {
+public class Solution29 {
 
     public static void main(String[] args) {
 
